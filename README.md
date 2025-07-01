@@ -1,4 +1,5 @@
 src/[name].sol
+
 script/[name].s.sol
 
 export RPC_URL=http://127.0.0.1:8545
